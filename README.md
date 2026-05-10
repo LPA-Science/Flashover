@@ -20,6 +20,7 @@ Dataset size:
 10 columns
 
 Files included:
+
 FOV dataset.xlsx
 
 FOV_data dictionary.xlsx
@@ -51,7 +52,10 @@ Citation of this dataset is optional; however, users who wish to cite the datase
 [LPA Science Inc, Elshan Ahani]. (2026). Flashover Voltage Dataset for Polymeric Insulators under Environmental Conditions. 
 Mendeley Data, Version 1.0. DOI: https://github.com/LPA-Science/Flashover.
 
-Email address:  info@lpa.co.ir
+Email address:
+
+		info@lpa.co.ir
+		
 		lpa.sci.inc@gmail.com
 
 
